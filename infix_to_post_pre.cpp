@@ -17,7 +17,7 @@ class Stack
         if(top==9)
         {
 
-            cout<<"Stack Full";
+            cout<<"Stack is Full";
         }
         else{
             s[++top]=c;
@@ -28,7 +28,7 @@ class Stack
 
         if(top==-1)
         {
-            cout<<"stack empty";
+            cout<<"Stack is Empty";
         }
         else{
             return s[top--];
