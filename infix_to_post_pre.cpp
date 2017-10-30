@@ -17,7 +17,7 @@ class Stack
         if(top==9)
         {
 
-            cout<<"stack full";
+            cout<<"Stack Full";
         }
         else{
             s[++top]=c;
