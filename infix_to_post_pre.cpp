@@ -151,9 +151,9 @@ int main()
 {
     char infix[50];
     Stack obj;
-    cout<<"enter infix";
+    cout<<"Enter Infix";
     gets(infix);
-    cout<<"enter 1 for postfix ,2 for prefix";
+    cout<<"Enter 1 for postfix ,2 for prefix";
     int x;
     cin>>x;
 
