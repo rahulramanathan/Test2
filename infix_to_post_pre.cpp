@@ -5,7 +5,7 @@ using namespace std;
 class Stack
 {
     int top;
-    char s[10];
+    char s[11];
     public:
     Stack()
     {
